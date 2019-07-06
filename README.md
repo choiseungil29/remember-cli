@@ -24,3 +24,7 @@ npm run test
 ```
 npm run lint
 ```
+
+## 개선 가능한 사항
+ - Navbar에 상태에 따라 다르게 나타나도록 구현
+ - User Create View와 User Update View 분리
